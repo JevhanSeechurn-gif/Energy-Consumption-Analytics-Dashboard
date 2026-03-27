@@ -1,0 +1,158 @@
+# Project Title
+
+> Short one line description of the project
+
+---
+
+## Live Demo
+
+🔗 [View Dashboard](#)
+
+![Dashboard Screenshot](assets/dashboard-screenshot.png)
+
+---
+
+## Project Overview
+
+**Business question:**
+
+---
+
+## Features
+
+-
+-
+-
+-
+
+---
+
+## Tech Stack
+
+| Tool | Purpose |
+|---|---|
+| | |
+| | |
+| | |
+| | |
+
+---
+
+## Data Sources
+
+| Dataset | Source | Coverage |
+|---|---|---|
+| | | |
+| | | |
+
+---
+
+## Database Schema
+
+```sql
+
+```
+
+---
+
+## Project Structure
+
+```
+project-name/
+│
+├── data/
+│   └── raw/
+│
+├── etl/
+│   ├── clean.py
+│   └── load.py
+│
+├── sql/
+│   └── queries.sql
+│
+├── dashboard/
+│   ├── app.py
+│   ├── charts.py
+│   └── chatbot.py
+│
+├── assets/
+├── DESIGN.md
+├── requirements.txt
+└── README.md
+```
+
+---
+
+## Getting Started
+
+### Prerequisites
+
+-
+-
+-
+
+### Installation
+
+```bash
+
+```
+
+### Environment Variables
+
+```
+
+```
+
+### Running the ETL Pipeline
+
+```bash
+
+```
+
+### Running the Dashboard
+
+```bash
+
+```
+
+---
+
+## SQL Queries
+
+-
+-
+-
+
+---
+
+## Key Findings
+
+-
+-
+-
+
+---
+
+## AI Chatbot
+
+---
+
+## Roadmap
+
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+
+---
+
+## Author
+
+**Name** — Degree, University, Year
+
+[LinkedIn](#) | [Portfolio](#) | [GitHub](#)
+
+---
+
+## Licence
