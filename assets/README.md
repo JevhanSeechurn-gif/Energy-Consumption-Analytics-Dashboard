@@ -8,8 +8,8 @@
 
 | Tool | Version | Purpose |
 |---|---|---|
-| [PostgreSQL](https://www.postgresql.org/) | 14+ | Database — stores all energy data |
-| [Python](https://www.python.org/) | 3.10+ | Core language |
+|[Python](https://www.python.org/) | 3.10+ | Core language |
+| [CSV](https://docs.python.org/3/library/csv.html) | N/A | Data source — stores all energy data for the dashboard (no database setup required) |
 | [Pandas](https://pandas.pydata.org/) | latest | ETL pipeline — cleans and loads data |
 | [Streamlit](https://streamlit.io/) | latest | Dashboard front end |
 | [Plotly](https://plotly.com/) | latest | Charts and visualisations |
