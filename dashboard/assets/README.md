@@ -1,8 +1,8 @@
-# Data Consumption Analytic Dashboard
+# UK Electricity Demand Analytics Dashboard
 
 > A data analytics dashboard that focuses on how UK's energy consumption has shifted between the years 2018 and 2023 - from relying on fossil fuels towards nuclear and renewable sources. Developed using Python, PostgreSQL and with an AI chatbot that lets users query the data in plain English. With the additon of displaying the dashboard across streamlit (with AI access), Power BI and Tableau.
 
----
+
 
 ## Tools Used
 
@@ -19,7 +19,7 @@
 | [Power BI](https://powerbi.microsoft.com/) | Latest | Creates business reporting dashboards (non-AI) |
 | [Tableau](https://www.tableau.com/) | Latest | Creates interactive visualizations and data storytelling dashboards |
 
----
+
 
 ## Live Demo
 
@@ -27,7 +27,7 @@
 
 ![Dashboard Screenshot](assets/dashboard-screenshot.png)
 
----
+
 
 ## Project Overview
 
@@ -35,7 +35,7 @@ This project delivers a data analytics dashboard that analyses how the UK's ener
 
 The dashboard uses visualisations to show trends, compare energy sources over time, and present the data clearly. It is designed to help users understand changes in the UK's energy use while demonstrating practical skills in data analysis and dashboard creation.
 
----
+
 
 ## Features
 
@@ -44,7 +44,7 @@ The dashboard uses visualisations to show trends, compare energy sources over ti
 - Time-based analysis to track changes in energy mix over the selected period
 - Clear visualisations designed for quick insight and easy interpretation
 
----
+
 
 ## Data Sources
 
@@ -53,7 +53,6 @@ The dashboard uses visualisations to show trends, compare energy sources over ti
 |UK Energy Consumption Data|UK Government / ONS / BEIS |2018–2023 |
 |Renewable Energy Statistics |Official UK energy datasets |2018–2023 |
 
----
 
 ## Database Schema
 
@@ -65,9 +64,9 @@ Consumption Value (e.g. TWh or %)
 
 This structure enables straightforward time-series analysis and comparison across energy types.
 
-```
 
----
+
+
 
 ## Project Structure
 
@@ -95,7 +94,7 @@ project-name/
 └── README.md
 ```
 
----
+
 
 ## Getting Started
 
