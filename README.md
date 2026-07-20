@@ -1,6 +1,12 @@
 # UK Electricity Demand Analytics Dashboard
 ---
 
+## Project Overview
+
+This is a analytical dashboard that explores historical electrcity demands throughout Great Britain from 2015 to 2025, as well comparing future scenarios with National Grid ESO. The project consists of data processing, interactive visualisations, KPI analysis and machine-learning demand forecast, with resutls displayed via streamlit, tableau and Power BI.
+
+---
+
 ## Tools Used
 
 | Tool | Version | Purpose |
@@ -25,11 +31,6 @@
 
 ---
 
-## Project Overview
-
-This is a analytical dashboard that explores historical electrcity demands throughout Great Britain from 2015 to 2025, as well comparing future scenarios with National Grid ESO. The project consists of data processing, interactive visualisations, KPI analysis and machine-learning demand forecast, with resutls displayed via streamlit, tableau and Power BI.
-
----
 
 ## Features
 
