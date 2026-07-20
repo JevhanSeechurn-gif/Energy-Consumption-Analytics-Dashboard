@@ -1,6 +1,6 @@
 # UK Electricity Demand Analytics Dashboard
 
-> A data analytics dashboard that focuses on how UK's energy consumption has shifted between the years 2018 and 2023 - from relying on fossil fuels towards nuclear and renewable sources. Developed using Python, PostgreSQL and with an AI chatbot that lets users query the data in plain English. With the additon of displaying the dashboard across streamlit (with AI access), Power BI and Tableau.
+> This is a analytical dashboard that explores historical electrcity demands throughout Great Britain from 2015 to 2025, as well comparing future scenarios with National Grid ESO. The project consists of data processing, interactive visualisations, KPI analysis and machine-learning demand forecast, with resutls displayed via streamlit, tableau and Power BI.
 
 ---
 
