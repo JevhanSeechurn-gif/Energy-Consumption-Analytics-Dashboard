@@ -34,19 +34,26 @@ This is a analytical dashboard that explores historical electrcity demands throu
 
 ## Features
 
-- Interactive dashboard to explore UK energy consumption trends (2018–2023)
-- Comparison of energy sources, including fossil fuels, nuclear, and renewables
-- Time-based analysis to track changes in energy mix over the selected period
-- Clear visualisations designed for quick insight and easy interpretation
+- Interactive dashboard exploring historical Great Britain electricity demand from 2015 to 2025
+- Comparison of National Grid ESO Future Energy Scenarios across multiple forecast years
+- Long-term demand projections extending to 2050
+- KPI analysis showing the latest demand, historical highs and lows, and future scenario comparisons
+- Machine-learning demand forecast displayed alongside official National Grid ESO projections
+- Interactive filtering by scenario, pathway, source and year
+- Clear visualisations created in Streamlit, Tableau and Power BI
+- Data processing pipeline built with Python and Pandas
 
 ---
 
 ## Data Sources
 
 | Dataset | Source | Coverage |
-|-----|-----|-----|
-|UK Energy Consumption Data|UK Government / ONS / BEIS |2018–2023 |
-|Renewable Energy Statistics |Official UK energy datasets |2018–2023 |
+|---|---|---|
+| Historical Electricity Demand | National Grid ESO / NESO | 2015–2025 |
+| Future Energy Scenarios 2023 | National Grid ESO | Forecasts to 2050 |
+| Future Energy Scenarios 2024 | National Grid ESO | Forecasts to 2050 |
+| Future Energy Scenarios 2025 | National Grid ESO / NESO | Forecasts to 2050 |
+| Machine-Learning Forecast | Generated within this project | Short-term demand forecast |
 
 ---
 
