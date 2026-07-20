@@ -10,16 +10,16 @@ This is a analytical dashboard that explores historical electrcity demands throu
 ## Tools Used
 
 | Tool | Version | Purpose |
-|---|---|---|
-|[Python](https://www.python.org/) | 3.10+ | Core language |
-| [CSV](https://docs.python.org/3/library/csv.html) | N/A | Data source — stores all energy data for the dashboard (no database setup required) |
-| [Pandas](https://pandas.pydata.org/) | latest | ETL pipeline — cleans and loads data |
-| [Streamlit](https://streamlit.io/) | latest | Dashboard front end |
-| [Plotly](https://plotly.com/) | latest | Charts and visualisations |
-| [python-dotenv](https://pypi.org/project/python-dotenv/) | latest | Manages API keys and credentials |
-| [Power BI](https://powerbi.microsoft.com/) | Latest | Creates business reporting dashboards (non-AI) |
-| [Tableau](https://www.tableau.com/) | Latest | Creates interactive visualizations and data storytelling dashboards |
-
+|---|---:|---|
+| Python | 3.10+ | Core programming language used for data processing, forecasting and dashboard development |
+| CSV | N/A | Stores raw and processed electricity-demand and future-scenario datasets |
+| Pandas | See requirements.txt | Cleans, transforms and exports the processed datasets |
+| Streamlit | See requirements.txt | Provides the interactive dashboard interface |
+| Plotly | See requirements.txt | Creates interactive charts and visualisations |
+| scikit-learn | See requirements.txt | Builds the machine-learning electricity-demand forecast |
+| Matplotlib | See requirements.txt | Supports forecast analysis and model visualisation |
+| Power BI | Desktop | Creates an additional business-intelligence dashboard |
+| Tableau | Public/Desktop | Creates interactive visualisations and data-storytelling dashboards |
 ---
 
 ## Live Demo
