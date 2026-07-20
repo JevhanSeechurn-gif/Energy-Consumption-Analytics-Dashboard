@@ -16,7 +16,6 @@ This is a analytical dashboard that explores historical electrcity demands throu
 | [Pandas](https://pandas.pydata.org/) | latest | ETL pipeline — cleans and loads data |
 | [Streamlit](https://streamlit.io/) | latest | Dashboard front end |
 | [Plotly](https://plotly.com/) | latest | Charts and visualisations |
-| [psycopg2](https://pypi.org/project/psycopg2/) | latest | Connects Python to PostgreSQL |
 | [python-dotenv](https://pypi.org/project/python-dotenv/) | latest | Manages API keys and credentials |
 | [Power BI](https://powerbi.microsoft.com/) | Latest | Creates business reporting dashboards (non-AI) |
 | [Tableau](https://www.tableau.com/) | Latest | Creates interactive visualizations and data storytelling dashboards |
@@ -54,20 +53,6 @@ This is a analytical dashboard that explores historical electrcity demands throu
 | Future Energy Scenarios 2024 | National Grid ESO | Forecasts to 2050 |
 | Future Energy Scenarios 2025 | National Grid ESO / NESO | Forecasts to 2050 |
 | Machine-Learning Forecast | Generated within this project | Short-term demand forecast |
-
----
-
-## Database Schema
-
-```The dataset is structured in a tabular format, with each row representing energy consumption by source and year. Key fields include:
-
-Year
-Energy Source (e.g. fossil fuels, nuclear, renewables)
-Consumption Value (e.g. TWh or %)
-
-This structure enables straightforward time-series analysis and comparison across energy types.
-
-```
 
 ---
 
