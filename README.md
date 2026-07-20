@@ -1,24 +1,25 @@
 # UK Electricity Demand Analytics Dashboard
+---
 
-> A data analytics dashboard that focuses on how UK's energy consumption has shifted between the years 2018 and 2023 - from relying on fossil fuels towards nuclear and renewable sources. Developed using Python, PostgreSQL and with an AI chatbot that lets users query the data in plain English. With the additon of displaying the dashboard across streamlit (with AI access), Power BI and Tableau.
+## Project Overview
+
+This is a analytical dashboard that explores historical electrcity demands throughout Great Britain from 2015 to 2025, as well comparing future scenarios with National Grid ESO. The project consists of data processing, interactive visualisations, KPI analysis and machine-learning demand forecast, with resutls displayed via streamlit, tableau and Power BI.
 
 ---
 
 ## Tools Used
 
 | Tool | Version | Purpose |
-|---|---|---|
-|[Python](https://www.python.org/) | 3.10+ | Core language |
-| [CSV](https://docs.python.org/3/library/csv.html) | N/A | Data source — stores all energy data for the dashboard (no database setup required) |
-| [Pandas](https://pandas.pydata.org/) | latest | ETL pipeline — cleans and loads data |
-| [Streamlit](https://streamlit.io/) | latest | Dashboard front end |
-| [Plotly](https://plotly.com/) | latest | Charts and visualisations |
-| [Claude API](https://www.anthropic.com/) | latest | AI chatbot — natural language to SQL |
-| [psycopg2](https://pypi.org/project/psycopg2/) | latest | Connects Python to PostgreSQL |
-| [python-dotenv](https://pypi.org/project/python-dotenv/) | latest | Manages API keys and credentials |
-| [Power BI](https://powerbi.microsoft.com/) | Latest | Creates business reporting dashboards (non-AI) |
-| [Tableau](https://www.tableau.com/) | Latest | Creates interactive visualizations and data storytelling dashboards |
-
+|---|---:|---|
+| Python | 3.10+ | Core programming language used for data processing, forecasting and dashboard development |
+| CSV | N/A | Stores raw and processed electricity-demand and future-scenario datasets |
+| Pandas | See requirements.txt | Cleans, transforms and exports the processed datasets |
+| Streamlit | See requirements.txt | Provides the interactive dashboard interface |
+| Plotly | See requirements.txt | Creates interactive charts and visualisations |
+| scikit-learn | See requirements.txt | Builds the machine-learning electricity-demand forecast |
+| Matplotlib | See requirements.txt | Supports forecast analysis and model visualisation |
+| Power BI | Desktop | Creates an additional business-intelligence dashboard |
+| Tableau | Public/Desktop | Creates interactive visualisations and data-storytelling dashboards |
 ---
 
 ## Live Demo
@@ -29,43 +30,29 @@
 
 ---
 
-## Project Overview
-
-This project delivers a data analytics dashboard that analyses how the UK's energy consumption has evolved between 2018 and 2023, focusing on the transition from the reliance on fossil fuel towards increased use of nuclear and renewable energy sources.
-
-The dashboard uses visualisations to show trends, compare energy sources over time, and present the data clearly. It is designed to help users understand changes in the UK's energy use while demonstrating practical skills in data analysis and dashboard creation.
-
----
 
 ## Features
 
-- Interactive dashboard to explore UK energy consumption trends (2018–2023)
-- Comparison of energy sources, including fossil fuels, nuclear, and renewables
-- Time-based analysis to track changes in energy mix over the selected period
-- Clear visualisations designed for quick insight and easy interpretation
+- Interactive dashboard exploring historical Great Britain electricity demand from 2015 to 2025
+- Comparison of National Grid ESO Future Energy Scenarios across multiple forecast years
+- Long-term demand projections extending to 2050
+- KPI analysis showing the latest demand, historical highs and lows, and future scenario comparisons
+- Machine-learning demand forecast displayed alongside official National Grid ESO projections
+- Interactive filtering by scenario, pathway, source and year
+- Clear visualisations created in Streamlit, Tableau and Power BI
+- Data processing pipeline built with Python and Pandas
 
 ---
 
 ## Data Sources
 
 | Dataset | Source | Coverage |
-|-----|-----|-----|
-|UK Energy Consumption Data|UK Government / ONS / BEIS |2018–2023 |
-|Renewable Energy Statistics |Official UK energy datasets |2018–2023 |
-
----
-
-## Database Schema
-
-```The dataset is structured in a tabular format, with each row representing energy consumption by source and year. Key fields include:
-
-Year
-Energy Source (e.g. fossil fuels, nuclear, renewables)
-Consumption Value (e.g. TWh or %)
-
-This structure enables straightforward time-series analysis and comparison across energy types.
-
-```
+|---|---|---|
+| Historical Electricity Demand | National Grid ESO / NESO | 2015–2025 |
+| Future Energy Scenarios 2023 | National Grid ESO | Forecasts to 2050 |
+| Future Energy Scenarios 2024 | National Grid ESO | Forecasts to 2050 |
+| Future Energy Scenarios 2025 | National Grid ESO / NESO | Forecasts to 2050 |
+| Machine-Learning Forecast | Generated within this project | Short-term demand forecast |
 
 ---
 

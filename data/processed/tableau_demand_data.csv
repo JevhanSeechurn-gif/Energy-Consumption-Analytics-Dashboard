@@ -1,0 +1,479 @@
+Series Type,Source,Scenario,Year,Demand
+AI Forecast,AI Forecast,Linear Regression,2026,216015.4231818188
+AI Forecast,AI Forecast,Linear Regression,2027,210284.66059090945
+AI Forecast,AI Forecast,Linear Regression,2028,204553.89800000004
+AI Forecast,AI Forecast,Linear Regression,2029,198823.13540909067
+AI Forecast,AI Forecast,Linear Regression,2030,193092.3728181813
+AI Forecast,AI Forecast,Linear Regression,2031,187361.6102272719
+AI Forecast,AI Forecast,Linear Regression,2032,181630.8476363644
+AI Forecast,AI Forecast,Linear Regression,2033,175900.08504545502
+AI Forecast,AI Forecast,Linear Regression,2034,170169.32245454565
+AI Forecast,AI Forecast,Linear Regression,2035,164438.55986363627
+AI Forecast,AI Forecast,Linear Regression,2036,158707.7972727269
+AI Forecast,AI Forecast,Linear Regression,2037,152977.03468181752
+AI Forecast,AI Forecast,Linear Regression,2038,147246.27209090814
+AI Forecast,AI Forecast,Linear Regression,2039,141515.50950000063
+AI Forecast,AI Forecast,Linear Regression,2040,135784.74690909125
+AI Forecast,AI Forecast,Linear Regression,2041,130053.98431818189
+AI Forecast,AI Forecast,Linear Regression,2042,124323.2217272725
+AI Forecast,AI Forecast,Linear Regression,2043,118592.45913636312
+AI Forecast,AI Forecast,Linear Regression,2044,112861.69654545374
+AI Forecast,AI Forecast,Linear Regression,2045,107130.93395454624
+AI Forecast,AI Forecast,Linear Regression,2046,101400.17136363684
+AI Forecast,AI Forecast,Linear Regression,2047,95669.40877272747
+AI Forecast,AI Forecast,Linear Regression,2048,89938.6461818181
+AI Forecast,AI Forecast,Linear Regression,2049,84207.88359090872
+AI Forecast,AI Forecast,Linear Regression,2050,78477.12099999934
+FES Scenario,FES 2023,Consumer Transformation,2010,346190.0
+FES Scenario,FES 2023,Consumer Transformation,2011,346488.0
+FES Scenario,FES 2023,Consumer Transformation,2012,345740.0
+FES Scenario,FES 2023,Consumer Transformation,2013,341287.0
+FES Scenario,FES 2023,Consumer Transformation,2014,333502.0
+FES Scenario,FES 2023,Consumer Transformation,2015,329348.0
+FES Scenario,FES 2023,Consumer Transformation,2016,321882.0
+FES Scenario,FES 2023,Consumer Transformation,2017,317125.0
+FES Scenario,FES 2023,Consumer Transformation,2018,311118.0
+FES Scenario,FES 2023,Consumer Transformation,2019,307247.0
+FES Scenario,FES 2023,Consumer Transformation,2020,286689.0
+FES Scenario,FES 2023,Consumer Transformation,2021,294569.0
+FES Scenario,FES 2023,Consumer Transformation,2022,286458.0
+FES Scenario,FES 2023,Consumer Transformation,2023,272749.0
+FES Scenario,FES 2023,Consumer Transformation,2024,273659.0
+FES Scenario,FES 2023,Consumer Transformation,2025,281583.0
+FES Scenario,FES 2023,Consumer Transformation,2026,290432.0
+FES Scenario,FES 2023,Consumer Transformation,2027,300964.0
+FES Scenario,FES 2023,Consumer Transformation,2028,312478.0
+FES Scenario,FES 2023,Consumer Transformation,2029,326752.0
+FES Scenario,FES 2023,Consumer Transformation,2030,344369.0
+FES Scenario,FES 2023,Consumer Transformation,2031,363817.0
+FES Scenario,FES 2023,Consumer Transformation,2032,387933.0
+FES Scenario,FES 2023,Consumer Transformation,2033,413801.0
+FES Scenario,FES 2023,Consumer Transformation,2034,440956.0
+FES Scenario,FES 2023,Consumer Transformation,2035,466986.0
+FES Scenario,FES 2023,Consumer Transformation,2036,494155.0
+FES Scenario,FES 2023,Consumer Transformation,2037,519887.0
+FES Scenario,FES 2023,Consumer Transformation,2038,540990.0
+FES Scenario,FES 2023,Consumer Transformation,2039,560984.0
+FES Scenario,FES 2023,Consumer Transformation,2040,581461.0
+FES Scenario,FES 2023,Consumer Transformation,2041,609235.0
+FES Scenario,FES 2023,Consumer Transformation,2042,630653.0
+FES Scenario,FES 2023,Consumer Transformation,2043,647066.0
+FES Scenario,FES 2023,Consumer Transformation,2044,663088.0
+FES Scenario,FES 2023,Consumer Transformation,2045,675257.0
+FES Scenario,FES 2023,Consumer Transformation,2046,687903.0
+FES Scenario,FES 2023,Consumer Transformation,2047,698489.0
+FES Scenario,FES 2023,Consumer Transformation,2048,709582.0
+FES Scenario,FES 2023,Consumer Transformation,2049,718720.0
+FES Scenario,FES 2023,Consumer Transformation,2050,725534.0
+FES Scenario,FES 2023,Falling Short,2010,346190.0
+FES Scenario,FES 2023,Falling Short,2011,346488.0
+FES Scenario,FES 2023,Falling Short,2012,345740.0
+FES Scenario,FES 2023,Falling Short,2013,341287.0
+FES Scenario,FES 2023,Falling Short,2014,333502.0
+FES Scenario,FES 2023,Falling Short,2015,329348.0
+FES Scenario,FES 2023,Falling Short,2016,321882.0
+FES Scenario,FES 2023,Falling Short,2017,317125.0
+FES Scenario,FES 2023,Falling Short,2018,311118.0
+FES Scenario,FES 2023,Falling Short,2019,307247.0
+FES Scenario,FES 2023,Falling Short,2020,286689.0
+FES Scenario,FES 2023,Falling Short,2021,294569.0
+FES Scenario,FES 2023,Falling Short,2022,286458.0
+FES Scenario,FES 2023,Falling Short,2023,296554.0
+FES Scenario,FES 2023,Falling Short,2024,299953.0
+FES Scenario,FES 2023,Falling Short,2025,303819.0
+FES Scenario,FES 2023,Falling Short,2026,306740.0
+FES Scenario,FES 2023,Falling Short,2027,310388.0
+FES Scenario,FES 2023,Falling Short,2028,314154.0
+FES Scenario,FES 2023,Falling Short,2029,319322.0
+FES Scenario,FES 2023,Falling Short,2030,325951.0
+FES Scenario,FES 2023,Falling Short,2031,333324.0
+FES Scenario,FES 2023,Falling Short,2032,341754.0
+FES Scenario,FES 2023,Falling Short,2033,351591.0
+FES Scenario,FES 2023,Falling Short,2034,361797.0
+FES Scenario,FES 2023,Falling Short,2035,372614.0
+FES Scenario,FES 2023,Falling Short,2036,384651.0
+FES Scenario,FES 2023,Falling Short,2037,397396.0
+FES Scenario,FES 2023,Falling Short,2038,410896.0
+FES Scenario,FES 2023,Falling Short,2039,425074.0
+FES Scenario,FES 2023,Falling Short,2040,440119.0
+FES Scenario,FES 2023,Falling Short,2041,455716.0
+FES Scenario,FES 2023,Falling Short,2042,470684.0
+FES Scenario,FES 2023,Falling Short,2043,485478.0
+FES Scenario,FES 2023,Falling Short,2044,499649.0
+FES Scenario,FES 2023,Falling Short,2045,513283.0
+FES Scenario,FES 2023,Falling Short,2046,525537.0
+FES Scenario,FES 2023,Falling Short,2047,537605.0
+FES Scenario,FES 2023,Falling Short,2048,547848.0
+FES Scenario,FES 2023,Falling Short,2049,558897.0
+FES Scenario,FES 2023,Falling Short,2050,569721.0
+FES Scenario,FES 2023,Five Year Forecast,2010,346190.0
+FES Scenario,FES 2023,Five Year Forecast,2011,346488.0
+FES Scenario,FES 2023,Five Year Forecast,2012,345740.0
+FES Scenario,FES 2023,Five Year Forecast,2013,341287.0
+FES Scenario,FES 2023,Five Year Forecast,2014,333502.0
+FES Scenario,FES 2023,Five Year Forecast,2015,329348.0
+FES Scenario,FES 2023,Five Year Forecast,2016,321882.0
+FES Scenario,FES 2023,Five Year Forecast,2017,317125.0
+FES Scenario,FES 2023,Five Year Forecast,2018,311118.0
+FES Scenario,FES 2023,Five Year Forecast,2019,307247.0
+FES Scenario,FES 2023,Five Year Forecast,2020,286689.0
+FES Scenario,FES 2023,Five Year Forecast,2021,294569.0
+FES Scenario,FES 2023,Five Year Forecast,2022,286458.0
+FES Scenario,FES 2023,Five Year Forecast,2023,283279.0
+FES Scenario,FES 2023,Five Year Forecast,2024,282999.0
+FES Scenario,FES 2023,Five Year Forecast,2025,288615.0
+FES Scenario,FES 2023,Five Year Forecast,2026,295668.0
+FES Scenario,FES 2023,Five Year Forecast,2027,302029.0
+FES Scenario,FES 2023,Five Year Forecast,2028,310259.0
+FES Scenario,FES 2023,Leading the Way,2010,346190.0
+FES Scenario,FES 2023,Leading the Way,2011,346488.0
+FES Scenario,FES 2023,Leading the Way,2012,345740.0
+FES Scenario,FES 2023,Leading the Way,2013,341287.0
+FES Scenario,FES 2023,Leading the Way,2014,333502.0
+FES Scenario,FES 2023,Leading the Way,2015,329348.0
+FES Scenario,FES 2023,Leading the Way,2016,321882.0
+FES Scenario,FES 2023,Leading the Way,2017,317125.0
+FES Scenario,FES 2023,Leading the Way,2018,311118.0
+FES Scenario,FES 2023,Leading the Way,2019,307247.0
+FES Scenario,FES 2023,Leading the Way,2020,286689.0
+FES Scenario,FES 2023,Leading the Way,2021,294569.0
+FES Scenario,FES 2023,Leading the Way,2022,286458.0
+FES Scenario,FES 2023,Leading the Way,2023,269888.0
+FES Scenario,FES 2023,Leading the Way,2024,267246.0
+FES Scenario,FES 2023,Leading the Way,2025,275521.0
+FES Scenario,FES 2023,Leading the Way,2026,290636.0
+FES Scenario,FES 2023,Leading the Way,2027,306441.0
+FES Scenario,FES 2023,Leading the Way,2028,321840.0
+FES Scenario,FES 2023,Leading the Way,2029,344162.0
+FES Scenario,FES 2023,Leading the Way,2030,368814.0
+FES Scenario,FES 2023,Leading the Way,2031,390678.0
+FES Scenario,FES 2023,Leading the Way,2032,410715.0
+FES Scenario,FES 2023,Leading the Way,2033,435493.0
+FES Scenario,FES 2023,Leading the Way,2034,460029.0
+FES Scenario,FES 2023,Leading the Way,2035,478919.0
+FES Scenario,FES 2023,Leading the Way,2036,500077.0
+FES Scenario,FES 2023,Leading the Way,2037,516061.0
+FES Scenario,FES 2023,Leading the Way,2038,531383.0
+FES Scenario,FES 2023,Leading the Way,2039,544867.0
+FES Scenario,FES 2023,Leading the Way,2040,559663.0
+FES Scenario,FES 2023,Leading the Way,2041,582379.0
+FES Scenario,FES 2023,Leading the Way,2042,600340.0
+FES Scenario,FES 2023,Leading the Way,2043,617588.0
+FES Scenario,FES 2023,Leading the Way,2044,629984.0
+FES Scenario,FES 2023,Leading the Way,2045,638304.0
+FES Scenario,FES 2023,Leading the Way,2046,647364.0
+FES Scenario,FES 2023,Leading the Way,2047,654279.0
+FES Scenario,FES 2023,Leading the Way,2048,658714.0
+FES Scenario,FES 2023,Leading the Way,2049,666971.0
+FES Scenario,FES 2023,Leading the Way,2050,670793.0
+FES Scenario,FES 2023,System Transformation,2010,346190.0
+FES Scenario,FES 2023,System Transformation,2011,346488.0
+FES Scenario,FES 2023,System Transformation,2012,345740.0
+FES Scenario,FES 2023,System Transformation,2013,341287.0
+FES Scenario,FES 2023,System Transformation,2014,333502.0
+FES Scenario,FES 2023,System Transformation,2015,329348.0
+FES Scenario,FES 2023,System Transformation,2016,321882.0
+FES Scenario,FES 2023,System Transformation,2017,317125.0
+FES Scenario,FES 2023,System Transformation,2018,311118.0
+FES Scenario,FES 2023,System Transformation,2019,307247.0
+FES Scenario,FES 2023,System Transformation,2020,286689.0
+FES Scenario,FES 2023,System Transformation,2021,294569.0
+FES Scenario,FES 2023,System Transformation,2022,286458.0
+FES Scenario,FES 2023,System Transformation,2023,281818.0
+FES Scenario,FES 2023,System Transformation,2024,281962.0
+FES Scenario,FES 2023,System Transformation,2025,285782.0
+FES Scenario,FES 2023,System Transformation,2026,292619.0
+FES Scenario,FES 2023,System Transformation,2027,300744.0
+FES Scenario,FES 2023,System Transformation,2028,307718.0
+FES Scenario,FES 2023,System Transformation,2029,315882.0
+FES Scenario,FES 2023,System Transformation,2030,324928.0
+FES Scenario,FES 2023,System Transformation,2031,335691.0
+FES Scenario,FES 2023,System Transformation,2032,347784.0
+FES Scenario,FES 2023,System Transformation,2033,360801.0
+FES Scenario,FES 2023,System Transformation,2034,376453.0
+FES Scenario,FES 2023,System Transformation,2035,400131.0
+FES Scenario,FES 2023,System Transformation,2036,418692.0
+FES Scenario,FES 2023,System Transformation,2037,441489.0
+FES Scenario,FES 2023,System Transformation,2038,463702.0
+FES Scenario,FES 2023,System Transformation,2039,489279.0
+FES Scenario,FES 2023,System Transformation,2040,504210.0
+FES Scenario,FES 2023,System Transformation,2041,528558.0
+FES Scenario,FES 2023,System Transformation,2042,554049.0
+FES Scenario,FES 2023,System Transformation,2043,575040.0
+FES Scenario,FES 2023,System Transformation,2044,593759.0
+FES Scenario,FES 2023,System Transformation,2045,615789.0
+FES Scenario,FES 2023,System Transformation,2046,632455.0
+FES Scenario,FES 2023,System Transformation,2047,644404.0
+FES Scenario,FES 2023,System Transformation,2048,657600.0
+FES Scenario,FES 2023,System Transformation,2049,671509.0
+FES Scenario,FES 2023,System Transformation,2050,678369.0
+FES Scenario,FES 2024,Counterfactual,2020,292030.0
+FES Scenario,FES 2024,Counterfactual,2021,298376.0
+FES Scenario,FES 2024,Counterfactual,2022,285919.0
+FES Scenario,FES 2024,Counterfactual,2023,284597.0
+FES Scenario,FES 2024,Counterfactual,2024,288988.0
+FES Scenario,FES 2024,Counterfactual,2025,291485.0
+FES Scenario,FES 2024,Counterfactual,2026,293591.0
+FES Scenario,FES 2024,Counterfactual,2027,296653.0
+FES Scenario,FES 2024,Counterfactual,2028,300668.0
+FES Scenario,FES 2024,Counterfactual,2029,305666.0
+FES Scenario,FES 2024,Counterfactual,2030,311374.0
+FES Scenario,FES 2024,Counterfactual,2031,317792.0
+FES Scenario,FES 2024,Counterfactual,2032,325137.0
+FES Scenario,FES 2024,Counterfactual,2033,333589.0
+FES Scenario,FES 2024,Counterfactual,2034,342213.0
+FES Scenario,FES 2024,Counterfactual,2035,350855.0
+FES Scenario,FES 2024,Counterfactual,2036,360426.0
+FES Scenario,FES 2024,Counterfactual,2037,372376.0
+FES Scenario,FES 2024,Counterfactual,2038,384033.0
+FES Scenario,FES 2024,Counterfactual,2039,395865.0
+FES Scenario,FES 2024,Counterfactual,2040,409023.0
+FES Scenario,FES 2024,Counterfactual,2041,422950.0
+FES Scenario,FES 2024,Counterfactual,2042,435594.0
+FES Scenario,FES 2024,Counterfactual,2043,447928.0
+FES Scenario,FES 2024,Counterfactual,2044,461468.0
+FES Scenario,FES 2024,Counterfactual,2045,474828.0
+FES Scenario,FES 2024,Counterfactual,2046,485532.0
+FES Scenario,FES 2024,Counterfactual,2047,495844.0
+FES Scenario,FES 2024,Counterfactual,2048,507615.0
+FES Scenario,FES 2024,Counterfactual,2049,521551.0
+FES Scenario,FES 2024,Counterfactual,2050,532548.0
+FES Scenario,FES 2024,Electric Engagement,2020,292030.0
+FES Scenario,FES 2024,Electric Engagement,2021,298376.0
+FES Scenario,FES 2024,Electric Engagement,2022,285919.0
+FES Scenario,FES 2024,Electric Engagement,2023,284609.0
+FES Scenario,FES 2024,Electric Engagement,2024,283307.0
+FES Scenario,FES 2024,Electric Engagement,2025,285925.0
+FES Scenario,FES 2024,Electric Engagement,2026,290498.0
+FES Scenario,FES 2024,Electric Engagement,2027,295774.0
+FES Scenario,FES 2024,Electric Engagement,2028,304217.0
+FES Scenario,FES 2024,Electric Engagement,2029,313700.0
+FES Scenario,FES 2024,Electric Engagement,2030,327803.0
+FES Scenario,FES 2024,Electric Engagement,2031,342318.0
+FES Scenario,FES 2024,Electric Engagement,2032,360350.0
+FES Scenario,FES 2024,Electric Engagement,2033,383048.0
+FES Scenario,FES 2024,Electric Engagement,2034,404616.0
+FES Scenario,FES 2024,Electric Engagement,2035,424998.0
+FES Scenario,FES 2024,Electric Engagement,2036,451325.0
+FES Scenario,FES 2024,Electric Engagement,2037,478751.0
+FES Scenario,FES 2024,Electric Engagement,2038,503101.0
+FES Scenario,FES 2024,Electric Engagement,2039,527019.0
+FES Scenario,FES 2024,Electric Engagement,2040,550284.0
+FES Scenario,FES 2024,Electric Engagement,2041,578703.0
+FES Scenario,FES 2024,Electric Engagement,2042,604316.0
+FES Scenario,FES 2024,Electric Engagement,2043,629954.0
+FES Scenario,FES 2024,Electric Engagement,2044,651787.0
+FES Scenario,FES 2024,Electric Engagement,2045,664012.0
+FES Scenario,FES 2024,Electric Engagement,2046,674103.0
+FES Scenario,FES 2024,Electric Engagement,2047,684182.0
+FES Scenario,FES 2024,Electric Engagement,2048,692312.0
+FES Scenario,FES 2024,Electric Engagement,2049,699056.0
+FES Scenario,FES 2024,Electric Engagement,2050,700394.0
+FES Scenario,FES 2024,Five Year Forecast,2020,292030.0
+FES Scenario,FES 2024,Five Year Forecast,2021,298376.0
+FES Scenario,FES 2024,Five Year Forecast,2022,285919.0
+FES Scenario,FES 2024,Five Year Forecast,2023,284609.0
+FES Scenario,FES 2024,Five Year Forecast,2024,285685.0
+FES Scenario,FES 2024,Five Year Forecast,2025,290241.0
+FES Scenario,FES 2024,Five Year Forecast,2026,294380.0
+FES Scenario,FES 2024,Five Year Forecast,2027,301290.0
+FES Scenario,FES 2024,Five Year Forecast,2028,308095.0
+FES Scenario,FES 2024,Five Year Forecast,2029,316738.0
+FES Scenario,FES 2024,Holistic Transition,2020,292030.0
+FES Scenario,FES 2024,Holistic Transition,2021,298376.0
+FES Scenario,FES 2024,Holistic Transition,2022,285919.0
+FES Scenario,FES 2024,Holistic Transition,2023,284609.0
+FES Scenario,FES 2024,Holistic Transition,2024,282008.0
+FES Scenario,FES 2024,Holistic Transition,2025,285115.0
+FES Scenario,FES 2024,Holistic Transition,2026,289958.0
+FES Scenario,FES 2024,Holistic Transition,2027,297453.0
+FES Scenario,FES 2024,Holistic Transition,2028,308237.0
+FES Scenario,FES 2024,Holistic Transition,2029,317050.0
+FES Scenario,FES 2024,Holistic Transition,2030,333629.0
+FES Scenario,FES 2024,Holistic Transition,2031,347913.0
+FES Scenario,FES 2024,Holistic Transition,2032,363930.0
+FES Scenario,FES 2024,Holistic Transition,2033,379592.0
+FES Scenario,FES 2024,Holistic Transition,2034,400357.0
+FES Scenario,FES 2024,Holistic Transition,2035,419435.0
+FES Scenario,FES 2024,Holistic Transition,2036,438885.0
+FES Scenario,FES 2024,Holistic Transition,2037,460247.0
+FES Scenario,FES 2024,Holistic Transition,2038,480101.0
+FES Scenario,FES 2024,Holistic Transition,2039,504313.0
+FES Scenario,FES 2024,Holistic Transition,2040,522967.0
+FES Scenario,FES 2024,Holistic Transition,2041,547604.0
+FES Scenario,FES 2024,Holistic Transition,2042,563592.0
+FES Scenario,FES 2024,Holistic Transition,2043,586832.0
+FES Scenario,FES 2024,Holistic Transition,2044,609183.0
+FES Scenario,FES 2024,Holistic Transition,2045,621888.0
+FES Scenario,FES 2024,Holistic Transition,2046,638720.0
+FES Scenario,FES 2024,Holistic Transition,2047,649249.0
+FES Scenario,FES 2024,Holistic Transition,2048,657426.0
+FES Scenario,FES 2024,Holistic Transition,2049,667060.0
+FES Scenario,FES 2024,Holistic Transition,2050,667219.0
+FES Scenario,FES 2024,Hydrogen Evolution,2020,292030.0
+FES Scenario,FES 2024,Hydrogen Evolution,2021,298376.0
+FES Scenario,FES 2024,Hydrogen Evolution,2022,285919.0
+FES Scenario,FES 2024,Hydrogen Evolution,2023,284600.0
+FES Scenario,FES 2024,Hydrogen Evolution,2024,285162.0
+FES Scenario,FES 2024,Hydrogen Evolution,2025,288827.0
+FES Scenario,FES 2024,Hydrogen Evolution,2026,292297.0
+FES Scenario,FES 2024,Hydrogen Evolution,2027,299113.0
+FES Scenario,FES 2024,Hydrogen Evolution,2028,309742.0
+FES Scenario,FES 2024,Hydrogen Evolution,2029,318757.0
+FES Scenario,FES 2024,Hydrogen Evolution,2030,332099.0
+FES Scenario,FES 2024,Hydrogen Evolution,2031,344401.0
+FES Scenario,FES 2024,Hydrogen Evolution,2032,360458.0
+FES Scenario,FES 2024,Hydrogen Evolution,2033,379955.0
+FES Scenario,FES 2024,Hydrogen Evolution,2034,399094.0
+FES Scenario,FES 2024,Hydrogen Evolution,2035,422101.0
+FES Scenario,FES 2024,Hydrogen Evolution,2036,442760.0
+FES Scenario,FES 2024,Hydrogen Evolution,2037,465332.0
+FES Scenario,FES 2024,Hydrogen Evolution,2038,482108.0
+FES Scenario,FES 2024,Hydrogen Evolution,2039,504900.0
+FES Scenario,FES 2024,Hydrogen Evolution,2040,520563.0
+FES Scenario,FES 2024,Hydrogen Evolution,2041,541108.0
+FES Scenario,FES 2024,Hydrogen Evolution,2042,560779.0
+FES Scenario,FES 2024,Hydrogen Evolution,2043,582832.0
+FES Scenario,FES 2024,Hydrogen Evolution,2044,592455.0
+FES Scenario,FES 2024,Hydrogen Evolution,2045,610315.0
+FES Scenario,FES 2024,Hydrogen Evolution,2046,632185.0
+FES Scenario,FES 2024,Hydrogen Evolution,2047,647075.0
+FES Scenario,FES 2024,Hydrogen Evolution,2048,650148.0
+FES Scenario,FES 2024,Hydrogen Evolution,2049,665564.0
+FES Scenario,FES 2024,Hydrogen Evolution,2050,671312.0
+FES Scenario,FES 2025,Electric Engagement,2023,286780.0
+FES Scenario,FES 2025,Electric Engagement,2024,289650.0
+FES Scenario,FES 2025,Electric Engagement,2025,291698.0
+FES Scenario,FES 2025,Electric Engagement,2026,296073.0
+FES Scenario,FES 2025,Electric Engagement,2027,303668.0
+FES Scenario,FES 2025,Electric Engagement,2028,314313.0
+FES Scenario,FES 2025,Electric Engagement,2029,328975.0
+FES Scenario,FES 2025,Electric Engagement,2030,344803.0
+FES Scenario,FES 2025,Electric Engagement,2031,362869.0
+FES Scenario,FES 2025,Electric Engagement,2032,382238.0
+FES Scenario,FES 2025,Electric Engagement,2033,402822.0
+FES Scenario,FES 2025,Electric Engagement,2034,425413.0
+FES Scenario,FES 2025,Electric Engagement,2035,450076.0
+FES Scenario,FES 2025,Electric Engagement,2036,483247.0
+FES Scenario,FES 2025,Electric Engagement,2037,525964.0
+FES Scenario,FES 2025,Electric Engagement,2038,558403.0
+FES Scenario,FES 2025,Electric Engagement,2039,585948.0
+FES Scenario,FES 2025,Electric Engagement,2040,616965.0
+FES Scenario,FES 2025,Electric Engagement,2041,644531.0
+FES Scenario,FES 2025,Electric Engagement,2042,672190.0
+FES Scenario,FES 2025,Electric Engagement,2043,694708.0
+FES Scenario,FES 2025,Electric Engagement,2044,709671.0
+FES Scenario,FES 2025,Electric Engagement,2045,724440.0
+FES Scenario,FES 2025,Electric Engagement,2046,737930.0
+FES Scenario,FES 2025,Electric Engagement,2047,752313.0
+FES Scenario,FES 2025,Electric Engagement,2048,766439.0
+FES Scenario,FES 2025,Electric Engagement,2049,776227.0
+FES Scenario,FES 2025,Electric Engagement,2050,784736.0
+FES Scenario,FES 2025,Falling Behind,2023,286780.0
+FES Scenario,FES 2025,Falling Behind,2024,289650.0
+FES Scenario,FES 2025,Falling Behind,2025,295231.0
+FES Scenario,FES 2025,Falling Behind,2026,298512.0
+FES Scenario,FES 2025,Falling Behind,2027,302725.0
+FES Scenario,FES 2025,Falling Behind,2028,308325.0
+FES Scenario,FES 2025,Falling Behind,2029,316344.0
+FES Scenario,FES 2025,Falling Behind,2030,323698.0
+FES Scenario,FES 2025,Falling Behind,2031,332351.0
+FES Scenario,FES 2025,Falling Behind,2032,341738.0
+FES Scenario,FES 2025,Falling Behind,2033,351742.0
+FES Scenario,FES 2025,Falling Behind,2034,362296.0
+FES Scenario,FES 2025,Falling Behind,2035,372906.0
+FES Scenario,FES 2025,Falling Behind,2036,384269.0
+FES Scenario,FES 2025,Falling Behind,2037,396144.0
+FES Scenario,FES 2025,Falling Behind,2038,407229.0
+FES Scenario,FES 2025,Falling Behind,2039,419392.0
+FES Scenario,FES 2025,Falling Behind,2040,433613.0
+FES Scenario,FES 2025,Falling Behind,2041,450011.0
+FES Scenario,FES 2025,Falling Behind,2042,464557.0
+FES Scenario,FES 2025,Falling Behind,2043,477519.0
+FES Scenario,FES 2025,Falling Behind,2044,490691.0
+FES Scenario,FES 2025,Falling Behind,2045,504316.0
+FES Scenario,FES 2025,Falling Behind,2046,516137.0
+FES Scenario,FES 2025,Falling Behind,2047,526834.0
+FES Scenario,FES 2025,Falling Behind,2048,537853.0
+FES Scenario,FES 2025,Falling Behind,2049,548276.0
+FES Scenario,FES 2025,Falling Behind,2050,558750.0
+FES Scenario,FES 2025,Holistic Transition,2023,286780.0
+FES Scenario,FES 2025,Holistic Transition,2024,289650.0
+FES Scenario,FES 2025,Holistic Transition,2025,290891.0
+FES Scenario,FES 2025,Holistic Transition,2026,294991.0
+FES Scenario,FES 2025,Holistic Transition,2027,302613.0
+FES Scenario,FES 2025,Holistic Transition,2028,314320.0
+FES Scenario,FES 2025,Holistic Transition,2029,326293.0
+FES Scenario,FES 2025,Holistic Transition,2030,339295.0
+FES Scenario,FES 2025,Holistic Transition,2031,355884.0
+FES Scenario,FES 2025,Holistic Transition,2032,373666.0
+FES Scenario,FES 2025,Holistic Transition,2033,392593.0
+FES Scenario,FES 2025,Holistic Transition,2034,411573.0
+FES Scenario,FES 2025,Holistic Transition,2035,433422.0
+FES Scenario,FES 2025,Holistic Transition,2036,461449.0
+FES Scenario,FES 2025,Holistic Transition,2037,488675.0
+FES Scenario,FES 2025,Holistic Transition,2038,513806.0
+FES Scenario,FES 2025,Holistic Transition,2039,536367.0
+FES Scenario,FES 2025,Holistic Transition,2040,563928.0
+FES Scenario,FES 2025,Holistic Transition,2041,582761.0
+FES Scenario,FES 2025,Holistic Transition,2042,602352.0
+FES Scenario,FES 2025,Holistic Transition,2043,621073.0
+FES Scenario,FES 2025,Holistic Transition,2044,635458.0
+FES Scenario,FES 2025,Holistic Transition,2045,654296.0
+FES Scenario,FES 2025,Holistic Transition,2046,670284.0
+FES Scenario,FES 2025,Holistic Transition,2047,681236.0
+FES Scenario,FES 2025,Holistic Transition,2048,691034.0
+FES Scenario,FES 2025,Holistic Transition,2049,700725.0
+FES Scenario,FES 2025,Holistic Transition,2050,705223.0
+FES Scenario,FES 2025,Hydrogen Evolution,2023,286780.0
+FES Scenario,FES 2025,Hydrogen Evolution,2024,289650.0
+FES Scenario,FES 2025,Hydrogen Evolution,2025,293394.0
+FES Scenario,FES 2025,Hydrogen Evolution,2026,297512.0
+FES Scenario,FES 2025,Hydrogen Evolution,2027,303083.0
+FES Scenario,FES 2025,Hydrogen Evolution,2028,311611.0
+FES Scenario,FES 2025,Hydrogen Evolution,2029,321544.0
+FES Scenario,FES 2025,Hydrogen Evolution,2030,334918.0
+FES Scenario,FES 2025,Hydrogen Evolution,2031,346651.0
+FES Scenario,FES 2025,Hydrogen Evolution,2032,371848.0
+FES Scenario,FES 2025,Hydrogen Evolution,2033,392387.0
+FES Scenario,FES 2025,Hydrogen Evolution,2034,421516.0
+FES Scenario,FES 2025,Hydrogen Evolution,2035,464347.0
+FES Scenario,FES 2025,Hydrogen Evolution,2036,502185.0
+FES Scenario,FES 2025,Hydrogen Evolution,2037,522729.0
+FES Scenario,FES 2025,Hydrogen Evolution,2038,545247.0
+FES Scenario,FES 2025,Hydrogen Evolution,2039,572262.0
+FES Scenario,FES 2025,Hydrogen Evolution,2040,594439.0
+FES Scenario,FES 2025,Hydrogen Evolution,2041,629181.0
+FES Scenario,FES 2025,Hydrogen Evolution,2042,658165.0
+FES Scenario,FES 2025,Hydrogen Evolution,2043,691892.0
+FES Scenario,FES 2025,Hydrogen Evolution,2044,720585.0
+FES Scenario,FES 2025,Hydrogen Evolution,2045,732957.0
+FES Scenario,FES 2025,Hydrogen Evolution,2046,748081.0
+FES Scenario,FES 2025,Hydrogen Evolution,2047,770705.0
+FES Scenario,FES 2025,Hydrogen Evolution,2048,778236.0
+FES Scenario,FES 2025,Hydrogen Evolution,2049,795993.0
+FES Scenario,FES 2025,Hydrogen Evolution,2050,797120.0
+FES Scenario,FES 2025,Ten Year Forecast,2023,286780.0
+FES Scenario,FES 2025,Ten Year Forecast,2024,289650.0
+FES Scenario,FES 2025,Ten Year Forecast,2025,292075.0
+FES Scenario,FES 2025,Ten Year Forecast,2026,295108.0
+FES Scenario,FES 2025,Ten Year Forecast,2027,300224.0
+FES Scenario,FES 2025,Ten Year Forecast,2028,308605.0
+FES Scenario,FES 2025,Ten Year Forecast,2029,320241.0
+FES Scenario,FES 2025,Ten Year Forecast,2030,330877.0
+FES Scenario,FES 2025,Ten Year Forecast,2031,343650.0
+FES Scenario,FES 2025,Ten Year Forecast,2032,358686.0
+FES Scenario,FES 2025,Ten Year Forecast,2033,373643.0
+FES Scenario,FES 2025,Ten Year Forecast,2034,385686.0
+FES Scenario,FES 2025,Ten Year Forecast,2035,396764.0
+Historical,Historical Data,Historical Demand,2015,282276.4595
+Historical,Historical Data,Historical Demand,2016,275600.676
+Historical,Historical Data,Historical Demand,2017,266068.3445
+Historical,Historical Data,Historical Demand,2018,264961.676
+Historical,Historical Data,Historical Demand,2019,257172.9295
+Historical,Historical Data,Historical Demand,2020,238542.9385
+Historical,Historical Data,Historical Demand,2021,248304.7805
+Historical,Historical Data,Historical Demand,2022,233211.2515
+Historical,Historical Data,Historical Demand,2023,228213.288
+Historical,Historical Data,Historical Demand,2024,230902.926
+Historical,Historical Data,Historical Demand,2025,229144.716
