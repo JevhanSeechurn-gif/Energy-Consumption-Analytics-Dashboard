@@ -10,7 +10,6 @@
 | [Pandas](https://pandas.pydata.org/) | latest | ETL pipeline — cleans and loads data |
 | [Streamlit](https://streamlit.io/) | latest | Dashboard front end |
 | [Plotly](https://plotly.com/) | latest | Charts and visualisations |
-| [Claude API](https://www.anthropic.com/) | latest | AI chatbot — natural language to SQL |
 | [psycopg2](https://pypi.org/project/psycopg2/) | latest | Connects Python to PostgreSQL |
 | [python-dotenv](https://pypi.org/project/python-dotenv/) | latest | Manages API keys and credentials |
 | [Power BI](https://powerbi.microsoft.com/) | Latest | Creates business reporting dashboards (non-AI) |
